@@ -66,11 +66,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Creality Ender 3 v2 Rulman Üzerindeki Toz Nedir?](https://www.muminkoykiran.com.tr/blog/2021/04/ender-3-v2-rulman-uzerindeki-toz-nedir/)
+- [Orange Pi için Node-RED Kurulumu](https://www.muminkoykiran.com.tr/blog/2020/12/orange-pi-icin-node-red-kurulumu/)
+- [Akıllı Duy Kurulumu ve Kullanımı](https://www.muminkoykiran.com.tr/blog/2018/01/akilli-duy-kurulumu-ve-kullanimi/)
+- [Akıllı Ev Asistanım, Artex ile Orange Pi İlk Test Videosu](https://www.muminkoykiran.com.tr/blog/2018/01/akilli-ev-asistanim-artex-ile-orange-pi-ilk-test-videosu/)
+- [Akıllı Ev Asistanım, Artex ile Akıllı Duy Kontrolü](https://www.muminkoykiran.com.tr/blog/2018/01/akilli-ev-asistanim-artex-ile-akilli-duy-kontrolu/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
