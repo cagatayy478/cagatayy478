@@ -1,7 +1,7 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Mümin - aka [Akım Metal >> Ar-Ge][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmuminkoykiran&screen_name=MrKoykiran)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -59,7 +59,7 @@
 - [Artex | Geri Sayım Özelliği](https://www.youtube.com/watch?v=fAVuiHZtJGs)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCb0WFqDdebZnHYf5H526zpA)
 
 ---
 
@@ -73,7 +73,7 @@
 - [Akıllı Ev Asistanım, Artex ile Akıllı Duy Kontrolü](https://www.muminkoykiran.com.tr/blog/2018/01/akilli-ev-asistanim-artex-ile-akilli-duy-kontrolu/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://www.muminkoykiran.com.tr/blog/)
 
 ---
 
@@ -93,16 +93,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muminkoykiran&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://www.muminkoykiran.com.tr/blog/
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/MrKoykiran
+[youtube]: https://www.youtube.com/channel/UCb0WFqDdebZnHYf5H526zpA
+[instagram]: https://www.instagram.com/muminkoykiran/
+[linkedin]: https://www.linkedin.com/in/muminkoykiran/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
