@@ -14,7 +14,8 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yugocu Spotify Playing" width="350" />](https://open.spotify.com/user/yugocu)
+[<img src="https://readme-spotify-status-steel.vercel.app/api/run-spotify-status" alt="yugocu Spotify Playing" width="500" />](https://open.spotify.com/user/yugocu)
+
 
 ### Connect with me:
 
@@ -95,7 +96,6 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Mümin Köykıran's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=muminkoykiran&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://www.muminkoykiran.com.tr/blog/
